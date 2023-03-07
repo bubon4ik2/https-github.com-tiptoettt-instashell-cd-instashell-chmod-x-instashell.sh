@@ -22,7 +22,7 @@ printf "\n"
 
 banner
 checkroot
-read -p $'\e[1;92mUsername account: \e[0m' user
+read -p $'\e[1;92mUsername account: anna95antre
 read -p $'\e[1;92mPassword List: \e[0m' wl_pass
 
 checktor() {
